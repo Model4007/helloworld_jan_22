@@ -1,7 +1,7 @@
 pipeline {
     agent any
      stages{
-      stage('Hello'){
+      stage('MC OMO'){
        steps {
          echo "Hello World"
        }
